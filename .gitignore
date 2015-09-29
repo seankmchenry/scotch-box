@@ -1,2 +1,7 @@
 .DS_STORE
 .vagrant
+
+# Ignore contents of public
+# folder, except index.php
+public/
+!public/index.php
